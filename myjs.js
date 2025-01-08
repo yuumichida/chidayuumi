@@ -1,2 +1,3 @@
 alert('Hello,everyone!');
-alert('SNOOPYの紹介ページです！');
+alert('こちらはSNOOPYの紹介ページです!');
+alert('クイズもあるので楽しんでください!');
