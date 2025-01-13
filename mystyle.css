@@ -1,5 +1,4 @@
 body{ background-color: #FFFF99; }
 h1 { color: #CCFFCC; }
-th,td { border: outset medium #FF0000; }
 h2 { color: #CCFF99; }
-
+th,td{border:dashed thick black;}
